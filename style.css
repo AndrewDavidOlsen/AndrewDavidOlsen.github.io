@@ -1,10 +1,10 @@
 @charset "UTF-8";
 body {
-  /* Change the font for the entire page */
-	font-family: Helvetica, Arial, "sans-serif";
-  /* Set the background color to light purple */
+  /* Set Page Font */
+	font-family: "Times New Roman", Times, serif;
+  /* Set Background Color Light Green */
 	background-color: #D4EFDF;
-  /* Add some space to the left side */
+  /* Add Margin Space */
 	margin-left: 22px;
 }
 
