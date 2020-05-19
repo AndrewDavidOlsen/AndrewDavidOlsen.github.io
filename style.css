@@ -1,3 +1,14 @@
 p {
+  /* Color Black all <p></p> tags */
 color: black;
+}
+
+h1{
+  /* Center all <h1></h1> tags */
+  text-align: center;
+}
+
+h3{
+  /* Center all <h3></h3> tags */
+  text-align: center;
 }
