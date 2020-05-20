@@ -5,7 +5,8 @@ body {
   /* Set Background Color Light Green */
 	background-color: #D4EFDF;
   /* Add Margin Space */
-	margin-left: 22px;
+	margin-left: 25px;
+	margin-bottom: 25px; 
 }
 
 h1{
